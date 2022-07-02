@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 80cc66ea54d4e2b47a38c8f28bd1d45c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c675e568b5c87499518c9618934d20
+      internalID: -881184281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 336
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79316fd5356a6c4dbc6da8f4becfabb
+      internalID: -326045063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 336
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f212641ace0c504a8084b43ec4c8a29
+      internalID: -767060413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 223
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8a1b967f84bf645a99b85a0d469d22
+      internalID: -799535434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits
+        (1)_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 112
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6457b0170b3404484b10ebcc38ad76
+      internalID: 744652757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits
+        (1)_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 112
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20fedf6f86657b4cac3b23aa81a98e0
+      internalID: 124337690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 112
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24702ddcbbf9d4c8a641fe7567995a
+      internalID: 834304373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 111
+        width: 89
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d203a4ef826c6334f8f28639fd6b4d1c
+      internalID: 806303013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits
+        (1)_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ec48ff4071a204c90ab25c67435e91
+      internalID: 1932248399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_1: 2094829013
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_9: -767060413
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_11: -799535434
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_0: -881184281
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_19: 1932248399
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_16: 834304373
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_3: 864783422
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_14: 744652757
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_17: 806303013
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_2: -1404120400
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_4: 1724391767
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_22: -261199203
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_10: -440880784
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_7: 1180783582
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_18: 534533280
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_5: -679366423
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_15: 124337690
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_13: -442342015
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_20: 1458649351
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_8: -326045063
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_12: -1781456142
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_21: -1617319671
+      depositphotos_23217054-stock-illustration-cartoon-vegetables-and-fruits (1)_6: 1728835373
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

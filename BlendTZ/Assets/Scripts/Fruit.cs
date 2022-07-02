@@ -4,7 +4,7 @@ public class Fruit : MonoBehaviour
 {
     [SerializeField] private ObjectPool.ObjectInfo.ObjectType types;
 
-    private void OnMouseDown()
+    public void OnFruit()
     {
         if (FruitCount.isWin == false)
         {
